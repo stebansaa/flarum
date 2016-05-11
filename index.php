@@ -14,3 +14,5 @@ require 'vendor/autoload.php';
 $server = new Flarum\Forum\Server(__DIR__);
 
 $server->listen();
+
+
